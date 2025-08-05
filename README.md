@@ -31,7 +31,7 @@ To build and run these programs, you will need the following tools installed on 
 
 ### 1. Grade Calculator
 
-This console application prompts a user to enter a numerical grade between 0 and 100. It then calculates and displays the corresponding letter grade based on the following scale[cite: 5]:
+This console application prompts a user to enter a numerical grade between 0 and 100. It then calculates and displays the corresponding letter grade based on the following scale:
 
 * **A**: 90 and above 
 * **B**: 80-89 
