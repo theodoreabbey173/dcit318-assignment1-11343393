@@ -11,7 +11,7 @@ This repository contains the solutions for the first assignment of the DCIT 318 
 ## Prerequisites
 
 To build and run these programs, you will need the following tools installed on your local machine:
-* .NET SDK (9.0)
+* .NET SDK (6.0 or later)
 * A code editor or IDE (e.g., Visual Studio, VS Code)
 * Git for version control, which is required to clone the repository.
 
